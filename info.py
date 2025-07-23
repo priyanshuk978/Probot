@@ -39,7 +39,7 @@ BOT_ID = BOT_TOKEN.split(":")[0]
 PORT = int(environ.get('PORT', '80'))
 
 # Upload your images to "postimages.org" and get direct link
-PICS = (environ.get('PICS', 'https://i.postimg.cc/8C15CQ5y/1.png https://i.postimg.cc/gcNtrv0m/2.png https://i.postimg.cc/cHD71BBz/3.png https://i.postimg.cc/F1XYhY8q/4.png https://i.postimg.cc/1tNwGVxC/5.png https://i.postimg.cc/dtW30QpL/6.png https://i.postimg.cc/139dvs3c/7.png https://i.postimg.cc/QtXVtB8K/8.png https://i.postimg.cc/y8j8G1XV/9.png https://i.postimg.cc/zDF6KyJX/10.png https://i.postimg.cc/fyycVqzd/11.png https://i.postimg.cc/26ZBtBZr/13.png https://i.postimg.cc/PJn8nrWZ/14.png https://i.postimg.cc/cC7txyhz/15.png https://i.postimg.cc/kX9tjGXP/16.png https://i.postimg.cc/zXjH4NVb/17.png https://i.postimg.cc/sggGrLhn/18.png https://i.postimg.cc/y8pgYTh7/19.png')).split()
+PICS = (environ.get('PICS', 'https://envs.sh/e2T.jpg https://envs.sh/e2A.jpg https://envs.sh/e2_.jpg https://envs.sh/e2G.jpg')).split()
 
 # Bot Admins
 ADMINS = environ.get('ADMINS', '6725874739')
@@ -91,8 +91,8 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/HA_Bots")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/HA_Bots")
 
 # Bot settings
-TIME_ZONE = environ.get('TIME_ZONE', 'Asia/Colombo') # Replace your time zone
-DELETE_TIME = int(environ.get('DELETE_TIME', 300)) # Add time in seconds
+TIME_ZONE = environ.get('TIME_ZONE', 'Asia/New delhi') # Replace your time zone
+DELETE_TIME = int(environ.get('DELETE_TIME', 120)) # Add time in seconds
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 MAX_BTN = int(environ.get('MAX_BTN', 8))
 LANGUAGES = [language.lower() for language in environ.get('LANGUAGES', 'hindi english telugu tamil kannada malayalam marathi punjabi').split()]
@@ -142,7 +142,7 @@ else:
 
 #start command reactions and sticker
 REACTIONS = [reactions for reactions in environ.get('REACTIONS', '🤝 😇 🤗 😍 👍 🎅 😐 🥰 🤩 😱 🤣 😘 👏 😛 😈 🎉 ⚡️ 🫡 🤓 😎 🏆 🔥 🤭 🌚 🆒 👻 😁').split()]  # Multiple reactions can be used separated by space
-STICKERS = [sticker for sticker in environ.get('STICKERS', 'CAACAgIAAxkBAAEN4ctnu1NdZUe21tiqF1CjLCZW8rJ28QACmQwAAj9UAUrPkwx5a8EilDYE CAACAgIAAxkBAAEN1pBntL9sz1tuP_qo0bCdLj_xQa28ngACxgEAAhZCawpKI9T0ydt5RzYE').split()]  # Multiple sticker can be used separated by space, use @idstickerbot for get sticker id
+STICKERS = [sticker for sticker in environ.get('STICKERS', 'CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMA').split()]  # Multiple sticker can be used separated by space, use @idstickerbot for get sticker id
 
 
 # for Premium 
