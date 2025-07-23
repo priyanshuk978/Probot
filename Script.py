@@ -4,12 +4,12 @@ class script(object):
     
 ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴀꜱ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ... ɪᴛ'ꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ᴍᴏᴠɪᴇꜱ ᴡɪᴛʜ ʏᴏᴜʀ ʟɪɴᴋ ꜱʜᴏʀᴛᴇɴᴇʀ... ♻️</b>"""
 
-    MY_ABOUT_TXT = """★ Group: <a href=https://t.me/moviesearchgroupmovixnest>MoviexNest_Group</a>
-★ UpDate Channel: <a href=https://t.me/MovixNest>MoviexNest</a>
+    MY_ABOUT_TXT = """★ Group: <a href=https://t.me/moviesearchgroupmovixnest>MovixNest_Group</a>
+★ UpDate Channel: <a href=https://t.me/MovixNest>MovixNest</a>
 ★ New Movie: <a href=https://t.me/+Htq8Zy9FNkU1ZDY1>Movie_Update</a>"""
 
-    MY_OWNER_TXT = """★ Name: MoviexNest
-★ Username: @MoviexNest"""
+    MY_OWNER_TXT = """★ Name: MovixNest
+★ Username: @MovixNest"""
 
 
     STATUS_TXT = """ Total Users: <code>{}</code>
