@@ -612,7 +612,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ],[
             InlineKeyboardButton('🤑 Buy Premium', url=f"https://t.me/{temp.U_NAME}?start=premium")
         ],[ 
-            InlineKeyboardButton('𖤍 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 𖤍', url=FILMS_LINK)
+            InlineKeyboardButton('𖤍 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 𖤍', url='https://t.me/moviesearchgroupmovixnest')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.edit_message_media(
