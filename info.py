@@ -84,11 +84,11 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/HA_Bots_Support')
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/HA_Bots')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/HA_Films_World')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/HA_Bots")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/HA_Bots")
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'http://t.me/MovixNest_ownerbot')
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/MovixNest')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/moviesearchgroupmovixnest')
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/tutorialnaut/4")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/tutorialnaut/4")
 
 # Bot settings
 TIME_ZONE = environ.get('TIME_ZONE', 'Asia/Colombo') # Replace your time zone
