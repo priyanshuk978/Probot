@@ -64,7 +64,7 @@ async def start(client, message):
         ],[
             InlineKeyboardButton('🤑 Buy Premium', url=f"https://t.me/{temp.U_NAME}?start=premium")
         ],[ 
-            InlineKeyboardButton('𖤍 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 𖤍', url=FILMS_LINK)
+            InlineKeyboardButton('𖤍 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 𖤍', url='https://t.me/moviesearchgroupmovixnest')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
