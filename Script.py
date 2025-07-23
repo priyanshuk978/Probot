@@ -6,7 +6,7 @@ class script(object):
 
     MY_ABOUT_TXT = """★ Group: <a href=https://t.me/moviesearchgroupmovixnest>MoviexNest_Group</a>
 ★ UpDate Channel: <a href=https://t.me/MovixNest>MoviexNest</a>
-★ New Movie UpDate: <a href=https://t.me/+Htq8Zy9FNkU1ZDY1>Movie_Update</a>"""
+★ New Movie: <a href=https://t.me/+Htq8Zy9FNkU1ZDY1>Movie_Update</a>"""
 
     MY_OWNER_TXT = """★ Name: MoviexNest
 ★ Username: @MoviexNest"""
