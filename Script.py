@@ -12,7 +12,7 @@ class script(object):
 ★ Username: @MoviexNest
 
 
-    STATUS_TXT = """👤 Total Users: <code>{}</code>
+    STATUS_TXT = """ Total Users: <code>{}</code>
 😎 Premium Users: <code>{}</code>
 👥 Total Chats: <code>{}</code>
 🗳 Data database used: <code>{}</code>
