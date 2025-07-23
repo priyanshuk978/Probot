@@ -9,7 +9,7 @@ class script(object):
 ★ New Movie UpDate: <a href=https://t.me/+Htq8Zy9FNkU1ZDY1>Movie_Update</a>"""
 
     MY_OWNER_TXT = """★ Name: MoviexNest
-★ Username: @MoviexNest
+★ Username: @MoviexNest"""
 
 
     STATUS_TXT = """ Total Users: <code>{}</code>
